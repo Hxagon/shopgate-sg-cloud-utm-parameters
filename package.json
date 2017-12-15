@@ -1,0 +1,18 @@
+{
+  "name": "utm-parameters",
+  "version": "0.0.1",
+  "description": "Contains the necesarry models to read or edit UTM-Parameters, which can be added to any URL, where they're needed",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hxagon/shopgate-sg-cloud-utm-parameters.git"
+  },
+  "author": "ronny.lindner@shopgate.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hxagon/shopgate-sg-cloud-utm-parameters/issues"
+  },
+  "homepage": "https://github.com/Hxagon/shopgate-sg-cloud-utm-parameters#readme"
+}
