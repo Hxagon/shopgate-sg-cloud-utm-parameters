@@ -1,5 +1,5 @@
 {
-  "name": "utm-parameters",
+  "name": "@hxagon/utm-parameters",
   "version": "0.0.1",
   "description": "Contains the necesarry models to read or edit UTM-Parameters, which can be added to any URL, where they're needed",
   "scripts": {
