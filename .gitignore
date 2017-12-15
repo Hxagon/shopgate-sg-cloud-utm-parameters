@@ -1,0 +1,9 @@
+# IntelliJ project files
+.idea
+out
+gen
+Würde .gitignore löschen
+Würde .idea/inspectionProfiles/ löschen
+Würde .idea/modules.xml löschen
+Würde .idea/shopgate-sg-cloud-utm-parameters.iml löschen
+Würde .idea/workspace.xml löschen
